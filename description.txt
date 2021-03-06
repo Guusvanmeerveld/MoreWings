@@ -1,0 +1,51 @@
+This mod is still very WIP and will probaly be updated alot
+currently contains:
+- 4 sets of prehardmode wings
+- 1 set of hardmode wings
+- 1 crafing material
+- 2 Pet
+
+v0.5.4
+- Resprited the Crimtane soul and Ebonian Soul
+- Removed Skeletal Wings
+- Added Meteorite Booster (Sprite W.I.P.)
+v.0.5.5
+- Resprited the Meteorite Booster 
+- Rebalanced all wings
+v.0.5.6
+- Added a little easter egg
+v.0.5.7
+- Rebalanced pretty much all selling prices
+- Resprited Ebononian soul and Crimtane Soul again
+v.0.5.8
+- Resprited Demonic Waders (Still W.I.P)
+- Rebalanced Demonic Waders
+v.0.5.9
+- Added tooltips to all vanilla wings
+v0.6
+- Added the Chunk of Flesh
+v0.6.1
+- Lots of bug fixes
+v0.6.1.1
+- very small changes and some bug fixes
+v0.6.2
+- Rebalanced and resprited demonic waders
+v0.6.3
+- Added somethings to Crimtane & Ebonian souls
+v.0.7
+- Rebalanced all wings (Again)
+- Added Wings of Life
+- Added Pink Quartz (Currently, you have to make a new world to get this ore)
+- Added dust to most wings
+v.0.7.1
+- Added Zinc ore (Currently, you have to make a new world to get this ore)
+- Added Sunplate anvil
+v.0.7.2
+- Fixed loads of bugs (probably added more)
+- Added Eye Crusher
+- Made Zinc ore post EoC
+v.0.7.3
+- Added Core of Flight
+- Added recipes for Lucky Horseshoe and the Cloud in a Bottle
+- Changed Meteorite Booster for Hell Wings
+
