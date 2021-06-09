@@ -1,4 +1,4 @@
-author = Guus6
+author = Xeeon
 version = 0.7.3
 displayName = MoreWings
 homepage = https://github.com/Guusvanmeerveld/MoreWings
